@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "vophan_home.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "vophan_home.tmx": {
+            "scale": 1.3964,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 136.4222285877972,
+                "y": 45.47407619593238
+            }
+        },
+        "vophan_land.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.2072,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/lihao68/code/frontend/pixijs-demo/assets",
+    "last.imagePath": "/Users/lihao68/code/frontend/pixijs-demo/assets",
+    "map.height": 10,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 10,
+    "openFiles": [
+        "vophan_home.tmx",
+        "vophan_land.tsx"
+    ],
+    "project": "VophanHome.tiled-project",
+    "recentFiles": [
+        "vophan_land.tsx",
+        "vophan_home.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
